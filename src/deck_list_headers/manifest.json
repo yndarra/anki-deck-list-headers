@@ -1,0 +1,7 @@
+{
+    "package": "deck_list_headers",
+    "name": "Deck List Column Headers",
+    "homepage": "https://github.com/yndarra/anki-deck-list-headers",
+    "conflicts": [],
+    "min_point_version": 231000
+}
