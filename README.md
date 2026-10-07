@@ -1,5 +1,8 @@
 # Deck List Column Headers
 
+**Install:** in Anki go to Tools → Add-ons → Get Add-ons… and enter the code **`834513701`** ([AnkiWeb page](https://ankiweb.net/shared/info/834513701)).
+**Установка:** Инструменты → Дополнения → Скачать дополнения… → код **`834513701`**.
+
 A small Anki add-on: your own names and widths for the deck list columns on the main screen. For example `Learn.` / `Due`, or `Изуч.` / `Повтор` instead of the long Russian `Изучаемые` / `К повторению`.
 
 - Settings (Tools → Add-ons → Config): Deck / New / Learn / Due headers, plus the minimum width and side padding of the New / Learn / Due columns, to make them narrower or wider. Empty = Anki's own value (shown in grey in the field). Changes apply immediately.
